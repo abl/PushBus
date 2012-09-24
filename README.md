@@ -82,22 +82,22 @@ push certificate, etc.
 ## Future Work
 
 * Easy
-** Easier configuration
-** Instructions for Android
-** Notifications when the schedule changes (home/work)
-** Growl/Prowl/Howl compatibility
+    * Easier configuration
+    * Instructions for Android
+    * Notifications when the schedule changes (home/work)
+    * Growl/Prowl/Howl compatibility
 * Harder
-** Make this a (simple) web service instead of requiring everyone to have a OBA key
-** Simple Web UI to set up schedules and routes
-** IFTTT-based configuration
-*** Text IFTTT "pushbus home" - get your home schedule for the next hour
-*** Text IFTTT "pushbus off/on" - turn pushbus off/on
-*** Text IFTTT "pushbus oof" - turn pushbus off for the day
+    * Make this a (simple) web service instead of requiring everyone to have a OBA key
+    * Simple Web UI to set up schedules and routes
+    * IFTTT-based configuration
+        * Text IFTTT "pushbus home" - get your home schedule for the next hour
+        * Text IFTTT "pushbus off/on" - turn pushbus off/on
+        * Text IFTTT "pushbus oof" - turn pushbus off for the day
 * Much Harder
-** Exchange and/or Google Calendar integration (see below)
-** Desktop application / integration with Notification Center
-** Remove dependency on PushOver by writing my own app
-*** Donations towards an iPhone dev license happily accepted; I might actually kickstart this assuming interest...
+    * Exchange and/or Google Calendar integration (see below)
+    * Desktop application / integration with Notification Center
+    * Remove dependency on PushOver by writing my own app
+        * Donations towards an iPhone dev license happily accepted; I might actually kickstart this assuming interest...
 
 ### Calendar Integration
 I'm not sure whether or not this is a useful idea.
